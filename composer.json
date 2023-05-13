@@ -1,0 +1,10 @@
+{
+  "require": {
+    "php": "^8.0.26"
+  },
+  "autoload": {
+    "psr-4": {
+      "LimeSurveyDrawer\\": "src"
+    }
+  }
+}
